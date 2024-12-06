@@ -1,1 +1,8 @@
+pip instiall tweepy textblob matplotlib
+
+import tweepy
+from textblob import TextBlob
+import matplotlib.pyplot as plt
+
+#Twitter API Credentials 
 
